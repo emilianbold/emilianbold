@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on local LLM inference via https://github.com/antirez/ds4 . I also have some related-experiments
+  - showing even Java can have the same inference speed: https://github.com/emilianbold/ds4j (because it's all Metal kernels!)
+  - showing that inference engines fit a floppy disk: https://github.com/emilianbold/tilestar (and Metal kernels can be done with TileLang)
+
+
